@@ -67,5 +67,5 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "labo_vr.slnx"
+    "dotnet.defaultSolution": "labo-vr.slnx"
 }
